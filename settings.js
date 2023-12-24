@@ -10,7 +10,7 @@ global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -21,18 +21,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['237620845735'] //ur owner number
-global.ownernomer = "237620845735" //ur owner number2
-global.ownername = "3𝓓" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: toge123456" //ur github or insta name
-global.location = "Afrique, Cameroun, Douala" //ur location
+global.owner = ['17245423663'] //ur owner number
+global.ownernomer = "17245423663" //ur owner number2
+global.ownername = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀" //ur owner name
+global.ytname = "YT:kenzo3146" //ur yt chanel name
+global.socialm = "GitHub:toge123456" //ur github or insta name
+global.location = "Afrique,Cameroun,Yaoundé" //ur location
 
 //new
-global.botname = "3𝓓"
-global.ownernumber = '237620845735'
-global.ownername = '3𝓓'
-global.ownerNumber = ["237620845735@s.whatsapp.net"]
+global.botname = "3D"
+global.ownernumber = '17245423663'
+global.ownername = '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀'
+global.ownerNumber = ["17245423663@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/CL0rq2IZaUC14T748pthdQ"
@@ -40,8 +40,8 @@ global.themeemoji = '✨'
 global.wm = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀"
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀"
-global.author = "3𝓓"
-global.creator = "237620845735@s.whatsapp.net"
+global.author = "3D"
+global.creator = "17245423663@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -51,7 +51,7 @@ global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
+global.defaultpp = 'https://telegra.ph/file/dbfc64a3a69ea0afbde4d.jpg' //default pp wa
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -71,3 +71,4 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
+	
